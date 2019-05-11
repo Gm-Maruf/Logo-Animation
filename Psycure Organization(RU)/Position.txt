@@ -1,0 +1,3 @@
+Anchor Point- 750,750
+Position-  680, 612
+Scale - 62.5333, 62.5333
